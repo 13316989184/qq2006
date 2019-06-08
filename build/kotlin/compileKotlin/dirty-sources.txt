@@ -1,0 +1,8 @@
+D:\project\kotlin\QQ2006\src\main\kotlin\com\a51work6\qq\client\FriendsFrame.kt
+D:\project\kotlin\QQ2006\src\main\kotlin\com\a51work6\qq\client\Client.kt
+D:\project\kotlin\QQ2006\src\main\kotlin\com\a51work6\qq\client\LoginFrame.kt
+D:\project\kotlin\QQ2006\src\main\kotlin\com\a51work6\qq\server\DBSchema.kt
+D:\project\kotlin\QQ2006\src\main\kotlin\com\a51work6\qq\server\Server.kt
+D:\project\kotlin\QQ2006\src\main\kotlin\com\a51work6\qq\server\UserDAO.kt
+D:\project\kotlin\QQ2006\src\main\kotlin\com\a51work6\qq\client\ChatFrame.kt
+D:\project\kotlin\QQ2006\src\main\kotlin\com\a51work6\qq\server\ClientInfo.kt

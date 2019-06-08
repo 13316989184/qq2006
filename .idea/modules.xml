@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QQ2006.iml" filepath="$PROJECT_DIR$/.idea/modules/QQ2006.iml" group="QQ2006" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QQ2006_main.iml" filepath="$PROJECT_DIR$/.idea/modules/QQ2006_main.iml" group="QQ2006" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QQ2006_test.iml" filepath="$PROJECT_DIR$/.idea/modules/QQ2006_test.iml" group="QQ2006" />
+    </modules>
+  </component>
+</project>
